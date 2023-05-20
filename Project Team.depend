@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1684422553 source:d:\desktop\projects of c\project team\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"Student.h"
+	"Student.c"
+
+1684509748 d:\desktop\projects of c\project team\student.h
+
+1684573524 d:\desktop\projects of c\project team\student.c
+	<string.h>
+	<stdio.h>
+	"Student.h"
+	"Private.h"
+
+1684570433 d:\desktop\projects of c\project team\private.h
+
