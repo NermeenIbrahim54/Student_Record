@@ -31,6 +31,9 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="Private.h">
+			<Option target="Release" />
+		</Unit>
 		<Unit filename="Student.c">
 			<Option compilerVar="CC" />
 			<Option target="Release" />
